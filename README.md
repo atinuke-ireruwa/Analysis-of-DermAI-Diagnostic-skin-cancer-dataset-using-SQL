@@ -26,52 +26,37 @@ The dataset consist of two tables namely Patient_info and Lesion_info respective
 # Project Workflow
 The analysis of the skin cancer dataset followed a structured, step-by-step workflow to ensure data integrity, analytical clarity, and meaningful insights:
 
-1. Data Import & Setup
+1. Data Import & Setup:
 Loaded the patient_info and lesion_info tables into a PostgreSQL database.
-
 Established relationships via patient_id as a foreign key.
-
 Verified data types and cleaned missing or inconsistent values.
 
 2. Data Exploration & Profiling
 Conducted initial SQL queries to:
-
 Understand the distribution of demographic variables.
-
 Explore lesion types, locations, and sizes.
-
 Identify outliers and missing data.
 
 3. Descriptive Analytics
 Aggregated data to summarize key trends:
-
 Frequency of cancer types by age, gender, and region.
-
 Distribution of UV exposure levels and skin types.
-
 Lesion sizes by location and biopsy results.
 
 4. Diagnostic Analytics
 Cross-tabulated variables to uncover deeper patterns:
-
 Relationship between lesion type and treatment outcomes.
-
 Correlation between exposure levels and cancer incidence.
-
 Family history vs. likelihood of malignant diagnosis.
 
 5. Insight Generation
 Highlighted key findings:
-
 Most affected demographics.
-
 Most effective treatments per cancer type.
-
 Regions with higher prevalence of malignant lesions.
 
 6. Reporting & Documentation
 Documented SQL queries in the /queries folder.
-
 Summarized insights and visualizations in the /insights or /reports folder.
 
 # Some Key Analytical questions Addressed.
