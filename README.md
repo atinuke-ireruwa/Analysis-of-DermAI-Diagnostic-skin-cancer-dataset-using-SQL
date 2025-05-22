@@ -4,6 +4,7 @@
 This project presents an in-depth analysis of a skin cancer dataset using SQL queries executed on a PostgreSQL database. The aim is to uncover
 trends, patterns, and key insights related to skin cancer diagnoses, treatments, demographics, and outcomes to support data-driven decision-making 
 in healthcare.
+Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities of using SQL to perform descriptive and diagnostic analytics.
 
 
 
