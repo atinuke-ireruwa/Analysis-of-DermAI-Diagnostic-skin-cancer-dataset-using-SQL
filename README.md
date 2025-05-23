@@ -5,6 +5,9 @@ This project presents an in-depth analysis of a skin cancer dataset using SQL qu
 trends, patterns, and key insights related to skin cancer diagnoses, treatments, demographics, and outcomes to support data-driven decision-making 
 in healthcare.
 
+
+
+
 Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or
 individual. All info are dummy and design to demonstrate my capabilities of using SQL to perform descriptive and diagnostic analytics.
 
@@ -16,6 +19,8 @@ Skin cancer remains one of the most prevalent and potentially life-threatening d
 successful treatment. DermAI Diagnostics harnesses the power of machine learning and clinical dermatology research to advance early diagnosis and
 intervention. By analyzing patient demographics, environmental influences, and lesion characteristics, actionable insights are generated to support
 dermatologists in identifying skin cancer at its earliest stages.
+
+
 
 AI-powered diagnostic tools are integrated with real-world clinical data and SQL-based analytics to close the gap between healthcare professionals and
 intelligent skin lesion classification systems. Through the provision of structured datasets and digital solutions, contribution is made to medical
