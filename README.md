@@ -4,7 +4,9 @@
 This project presents an in-depth analysis of a skin cancer dataset using SQL queries executed on a PostgreSQL database. The aim is to uncover
 trends, patterns, and key insights related to skin cancer diagnoses, treatments, demographics, and outcomes to support data-driven decision-making 
 in healthcare.
-Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities of using SQL to perform descriptive and diagnostic analytics.
+
+Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or
+individual. All info are dummy and design to demonstrate my capabilities of using SQL to perform descriptive and diagnostic analytics.
 
 
 
@@ -20,7 +22,9 @@ intelligent skin lesion classification systems. Through the provision of structu
 research, epidemiological analysis, and AI-enhanced skin cancer detection—ultimately aiming to improve outcomes and advance public health.
 
 # Data Description
-The dataset consist of two tables namely Patient_info and Lesion_info respectively. Each table includes anonymized records of patients with suspected or confirmed skin cancer cases. These tables are linked by a common identifier (patient_id) and together provide a comprehensive view of skin cancer cases, including patient demographics and lesion-specific clinical data.
+The dataset consist of two tables namely Patient_info and Lesion_info respectively. Each table includes anonymized records of patients with
+suspected or confirmed skin cancer cases. These tables are linked by a common identifier (patient_id) and together provide a comprehensive view of
+skin cancer cases, including patient demographics and lesion-specific clinical data.
 
 
 # Project Workflow
