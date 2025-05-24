@@ -5,6 +5,9 @@ This project presents an in-depth analysis of a skin cancer dataset using SQL qu
 trends, patterns, and key insights related to skin cancer diagnoses, treatments, demographics, and outcomes to support data-driven decision-making 
 in healthcare.
 
+![Blue and White Modern Medical Facebook Post](https://github.com/user-attachments/assets/0be55511-01a2-41d4-a1c2-8abbba4635af)
+
+
 Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or
 individual. All info are dummy and design to demonstrate my capabilities of using SQL to perform descriptive and diagnostic analytics.
 
@@ -26,6 +29,9 @@ The dataset consist of two tables namely Patient_info and Lesion_info respective
 suspected or confirmed skin cancer cases. These tables are linked by a common identifier (patient_id) and together provide a comprehensive view of
 skin cancer cases, including patient demographics and lesion-specific clinical data.
 
+![Screenshot 2025-05-22 224532](https://github.com/user-attachments/assets/3b1fde7b-dd5c-4944-b49a-611b926eaf40)
+
+
 
 # Project Workflow
 The analysis of the skin cancer dataset followed a structured, step-by-step workflow to ensure data integrity, analytical clarity, and meaningful insights:
@@ -35,43 +41,49 @@ Loaded the patient_info and lesion_info tables into a PostgreSQL database.
 Established relationships via patient_id as a foreign key.
 Verified data types and cleaned missing or inconsistent values.
 
-2. Data Exploration & Profiling
+
+3. Data Exploration & Profiling
 Conducted initial SQL queries to:
 Understand the distribution of demographic variables.
 Explore lesion types, locations, and sizes.
 Identify outliers and missing data.
 
-3. Descriptive Analytics
+4. Descriptive Analytics
 Aggregated data to summarize key trends:
 Frequency of cancer types by age, gender, and region.
 Distribution of UV exposure levels and skin types.
 Lesion sizes by location and biopsy results.
 
-4. Diagnostic Analytics
+5. Diagnostic Analytics
 Cross-tabulated variables to uncover deeper patterns:
 Relationship between lesion type and treatment outcomes.
 Correlation between exposure levels and cancer incidence.
 Family history vs. likelihood of malignant diagnosis.
 
-5. Insight Generation
+6. Insight Generation
 Highlighted key findings:
 Most affected demographics.
 Most effective treatments per cancer type.
 Regions with higher prevalence of malignant lesions.
 
-6. Reporting & Documentation
+7. Reporting & Documentation
 Documented SQL queries in the /queries folder.
 Summarized insights and visualizations in the /insights or /reports folder.
 
 # Some Key Analytical questions Addressed.
-A number of queries were 
+12 quwries were run on Postgresql to genrate insights to analyse demographic, environmental factors, and lesion characteristics.. Here are four of these queries, other queries can be seen on the attached file to this repo:
 1. What are the most common types of skin cancer in the dataset?
-
 2. How many lesions were biopsied?
+![Screenshot 2025-05-22 230943](https://github.com/user-attachments/assets/c03234dc-a5ef-4ba5-affa-79c9ec48029c)
+
 
 3. Which gender has the highest proportion of biopsied lesions?
+![Screenshot 2025-05-22 232336](https://github.com/user-attachments/assets/8399ad8b-36a1-4153-848e-7475fc7b524c)
+
 
 4. What body part(s) has the most lesion?
+![Screenshot 2025-05-22 232047](https://github.com/user-attachments/assets/7bff047f-370e-4305-bed9-9445325d4767)
+
 
 # Summary of Insights
 This dataset presents a multi-dimensional view of skin cancer, categorized by demographics, environmental exposure, and lesion characteristics to 
@@ -113,4 +125,11 @@ The problem statement says there are a total of 1,089 cases but after running di
 of up to date records and proper database management systems.
 
 By applying these recommendations, DermAI will be able to manage patient data properly and have accurate records for AI model training.
+
+## Thank you
+
+Kindly go through the uploaded files for further details on this repo. For further enquiries on this project, kindly reach out to me:
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/364df7e9-747a-4f83-ba14-c692e1f2b4a7)
+
+
 
