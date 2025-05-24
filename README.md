@@ -5,7 +5,7 @@ This project presents an in-depth analysis of a skin cancer dataset using SQL qu
 trends, patterns, and key insights related to skin cancer diagnoses, treatments, demographics, and outcomes to support data-driven decision-making 
 in healthcare.
 
-![Blue and White Modern Medical Facebook Post](https://github.com/user-attachments/assets/0be55511-01a2-41d4-a1c2-8abbba4635af)
+![Blue and White Modern Medical Facebook Post](https://github.com/user-attachments/assets/0be55511-01a2-41d4-a1c2-8abbba4635af)main
 
 
 Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or
@@ -19,6 +19,8 @@ Skin cancer remains one of the most prevalent and potentially life-threatening d
 successful treatment. DermAI Diagnostics harnesses the power of machine learning and clinical dermatology research to advance early diagnosis and
 intervention. By analyzing patient demographics, environmental influences, and lesion characteristics, actionable insights are generated to support
 dermatologists in identifying skin cancer at its earliest stages.
+
+
 
 AI-powered diagnostic tools are integrated with real-world clinical data and SQL-based analytics to close the gap between healthcare professionals and
 intelligent skin lesion classification systems. Through the provision of structured datasets and digital solutions, contribution is made to medical
