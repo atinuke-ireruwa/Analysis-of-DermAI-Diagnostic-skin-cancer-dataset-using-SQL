@@ -5,7 +5,7 @@ This project presents an in-depth analysis of a skin cancer dataset using SQL qu
 trends, patterns, and key insights related to skin cancer diagnoses, treatments, demographics, and outcomes to support data-driven decision-making 
 in healthcare.
 
-![Blue and White Modern Medical Facebook Post](https://github.com/user-attachments/assets/0be55511-01a2-41d4-a1c2-8abbba4635af)main
+![Blue and White Modern Medical Facebook Post (1)](https://github.com/user-attachments/assets/9e7d5190-d8bf-40a9-80b5-8d37277dd1ab)
 
 
 Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or
