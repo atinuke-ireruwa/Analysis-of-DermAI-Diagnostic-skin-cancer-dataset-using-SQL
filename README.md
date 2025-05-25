@@ -73,7 +73,7 @@ Documented SQL queries in the /queries folder.
 Summarized insights and visualizations in the /insights or /reports folder.
 
 # Some Key Analytical questions Addressed.
-12 quwries were run on Postgresql to genrate insights to analyse demographic, environmental factors, and lesion characteristics.. Here are four of these queries, other queries can be seen on the attached file to this repo:
+12 queries were run on Postgresql to genrate insights to analyse demographic, environmental factors, and lesion characteristics.. Here are four of these queries, other queries can be seen on the attached file to this repo:
 1. What are the most common types of skin cancer in the dataset?
 2. How many lesions were biopsied?
 ![Screenshot 2025-05-22 230943](https://github.com/user-attachments/assets/c03234dc-a5ef-4ba5-affa-79c9ec48029c)
